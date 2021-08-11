@@ -17,3 +17,4 @@ if __name__ == '__main__':
         else:
             print('Not found')
         query = sys.stdin.readline().strip()
+        print("hello")
